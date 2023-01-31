@@ -1,0 +1,11 @@
+.Form_Col_{
+height: 200px;
+width: 200px;
+
+
+border:1px solid;
+}
+
+.col_2{
+    padding-left: 20px;
+}
